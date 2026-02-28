@@ -61,7 +61,7 @@ Problem credits: Suhas Nagar
  */
 import java.util.ArrayList;
 import java.util.Scanner;
-
+/*
 public class Cowntact {
 
     Scanner in = new Scanner(System.in);
@@ -100,3 +100,4 @@ public class Cowntact {
                 
     }
 }
+*/
